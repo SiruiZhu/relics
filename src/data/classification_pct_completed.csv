@@ -1,0 +1,127 @@
+number,number_pct,era_order,classification_en,classification,era_en
+6.0,75.0,18,other,其他,Ming dynasty
+2.0,25.0,19,other,其他,Qing dynasty
+0.0,0.0,1,other,其他,Geological age
+0.0,0.0,2,other,其他,Paleolithic age
+0.0,0.0,3,other,其他,Neolithic
+0.0,0.0,4,other,其他,Bronze Age
+0.0,0.0,5,other,其他,Xia dynasty
+0.0,0.0,6,other,其他,Shang dynasty
+0.0,0.0,7,other,其他,Zhou dynasty
+0.0,0.0,8,other,其他,Qin dynasty
+0.0,0.0,9,other,其他,Han dynasty
+0.0,0.0,10,other,其他,Three Kingdoms
+0.0,0.0,11,other,其他,Jin dynasty
+0.0,0.0,12,other,其他,Southern and Northern dynasties
+0.0,0.0,13,other,其他,Sui dynasty
+0.0,0.0,14,other,其他,Tang dynasty
+0.0,0.0,15,other,其他,Five Dynasties and Ten Kingdoms
+0.0,0.0,16,other,其他,Song dynasty
+0.0,0.0,17,other,其他,Yuan dynasty
+0.0,0.0,20,other,其他,Republic of China
+0.0,0.0,21,other,其他,Chinese People‘s Republic
+22.0,5.804749340369393,21,Historical buildings of modern times,近现代重要史迹及代表性建筑,Chinese People‘s Republic
+1.0,0.2638522427440633,18,Historical buildings of modern times,近现代重要史迹及代表性建筑,Ming dynasty
+131.0,34.56464379947229,19,Historical buildings of modern times,近现代重要史迹及代表性建筑,Qing dynasty
+225.0,59.36675461741425,20,Historical buildings of modern times,近现代重要史迹及代表性建筑,Republic of China
+0.0,0.0,1,Historical buildings of modern times,近现代重要史迹及代表性建筑,Geological age
+0.0,0.0,2,Historical buildings of modern times,近现代重要史迹及代表性建筑,Paleolithic age
+0.0,0.0,3,Historical buildings of modern times,近现代重要史迹及代表性建筑,Neolithic
+0.0,0.0,4,Historical buildings of modern times,近现代重要史迹及代表性建筑,Bronze Age
+0.0,0.0,5,Historical buildings of modern times,近现代重要史迹及代表性建筑,Xia dynasty
+0.0,0.0,6,Historical buildings of modern times,近现代重要史迹及代表性建筑,Shang dynasty
+0.0,0.0,7,Historical buildings of modern times,近现代重要史迹及代表性建筑,Zhou dynasty
+0.0,0.0,8,Historical buildings of modern times,近现代重要史迹及代表性建筑,Qin dynasty
+0.0,0.0,9,Historical buildings of modern times,近现代重要史迹及代表性建筑,Han dynasty
+0.0,0.0,10,Historical buildings of modern times,近现代重要史迹及代表性建筑,Three Kingdoms
+0.0,0.0,11,Historical buildings of modern times,近现代重要史迹及代表性建筑,Jin dynasty
+0.0,0.0,12,Historical buildings of modern times,近现代重要史迹及代表性建筑,Southern and Northern dynasties
+0.0,0.0,13,Historical buildings of modern times,近现代重要史迹及代表性建筑,Sui dynasty
+0.0,0.0,14,Historical buildings of modern times,近现代重要史迹及代表性建筑,Tang dynasty
+0.0,0.0,15,Historical buildings of modern times,近现代重要史迹及代表性建筑,Five Dynasties and Ten Kingdoms
+0.0,0.0,16,Historical buildings of modern times,近现代重要史迹及代表性建筑,Song dynasty
+0.0,0.0,17,Historical buildings of modern times,近现代重要史迹及代表性建筑,Yuan dynasty
+10.0,4.926108374384237,4,Ancient tomb,古墓葬,Bronze Age
+1.0,0.49261083743842365,21,Ancient tomb,古墓葬,Chinese People‘s Republic
+13.0,6.403940886699508,15,Ancient tomb,古墓葬,Five Dynasties and Ten Kingdoms
+43.0,21.182266009852217,9,Ancient tomb,古墓葬,Han dynasty
+5.0,2.4630541871921183,11,Ancient tomb,古墓葬,Jin dynasty
+25.0,12.31527093596059,18,Ancient tomb,古墓葬,Ming dynasty
+3.0,1.477832512315271,3,Ancient tomb,古墓葬,Neolithic
+2.0,0.9852216748768473,8,Ancient tomb,古墓葬,Qin dynasty
+17.0,8.374384236453201,19,Ancient tomb,古墓葬,Qing dynasty
+1.0,0.49261083743842365,6,Ancient tomb,古墓葬,Shang dynasty
+16.0,7.8817733990147785,16,Ancient tomb,古墓葬,Song dynasty
+10.0,4.926108374384237,12,Ancient tomb,古墓葬,Southern and Northern dynasties
+2.0,0.9852216748768473,13,Ancient tomb,古墓葬,Sui dynasty
+18.0,8.866995073891626,14,Ancient tomb,古墓葬,Tang dynasty
+4.0,1.9704433497536946,10,Ancient tomb,古墓葬,Three Kingdoms
+1.0,0.49261083743842365,5,Ancient tomb,古墓葬,Xia dynasty
+7.0,3.4482758620689653,17,Ancient tomb,古墓葬,Yuan dynasty
+25.0,12.31527093596059,7,Ancient tomb,古墓葬,Zhou dynasty
+0.0,0.0,1,Ancient tomb,古墓葬,Geological age
+0.0,0.0,2,Ancient tomb,古墓葬,Paleolithic age
+0.0,0.0,20,Ancient tomb,古墓葬,Republic of China
+5.0,3.067484662576687,15,Cave temple and stone carving,石窟寺及石刻,Five Dynasties and Ten Kingdoms
+5.0,3.067484662576687,9,Cave temple and stone carving,石窟寺及石刻,Han dynasty
+5.0,3.067484662576687,11,Cave temple and stone carving,石窟寺及石刻,Jin dynasty
+9.0,5.521472392638037,18,Cave temple and stone carving,石窟寺及石刻,Ming dynasty
+3.0,1.8404907975460123,3,Cave temple and stone carving,石窟寺及石刻,Neolithic
+1.0,0.6134969325153374,19,Cave temple and stone carving,石窟寺及石刻,Qing dynasty
+28.0,17.177914110429448,16,Cave temple and stone carving,石窟寺及石刻,Song dynasty
+39.0,23.92638036809816,12,Cave temple and stone carving,石窟寺及石刻,Southern and Northern dynasties
+6.0,3.6809815950920246,13,Cave temple and stone carving,石窟寺及石刻,Sui dynasty
+49.0,30.061349693251532,14,Cave temple and stone carving,石窟寺及石刻,Tang dynasty
+2.0,1.2269938650306749,10,Cave temple and stone carving,石窟寺及石刻,Three Kingdoms
+7.0,4.294478527607362,17,Cave temple and stone carving,石窟寺及石刻,Yuan dynasty
+4.0,2.4539877300613497,7,Cave temple and stone carving,石窟寺及石刻,Zhou dynasty
+0.0,0.0,1,Cave temple and stone carving,石窟寺及石刻,Geological age
+0.0,0.0,2,Cave temple and stone carving,石窟寺及石刻,Paleolithic age
+0.0,0.0,4,Cave temple and stone carving,石窟寺及石刻,Bronze Age
+0.0,0.0,5,Cave temple and stone carving,石窟寺及石刻,Xia dynasty
+0.0,0.0,6,Cave temple and stone carving,石窟寺及石刻,Shang dynasty
+0.0,0.0,8,Cave temple and stone carving,石窟寺及石刻,Qin dynasty
+0.0,0.0,20,Cave temple and stone carving,石窟寺及石刻,Republic of China
+0.0,0.0,21,Cave temple and stone carving,石窟寺及石刻,Chinese People‘s Republic
+10.0,1.9801980198019802,4,Ancient ruins,古遗址,Bronze Age
+14.0,2.7722772277227725,15,Ancient ruins,古遗址,Five Dynasties and Ten Kingdoms
+2.0,0.39603960396039606,1,Ancient ruins,古遗址,Geological age
+51.0,10.099009900990099,9,Ancient ruins,古遗址,Han dynasty
+6.0,1.188118811881188,11,Ancient ruins,古遗址,Jin dynasty
+13.0,2.5742574257425743,18,Ancient ruins,古遗址,Ming dynasty
+144.0,28.51485148514851,3,Ancient ruins,古遗址,Neolithic
+38.0,7.524752475247524,2,Ancient ruins,古遗址,Paleolithic age
+8.0,1.5841584158415842,8,Ancient ruins,古遗址,Qin dynasty
+2.0,0.39603960396039606,19,Ancient ruins,古遗址,Qing dynasty
+17.0,3.3663366336633667,6,Ancient ruins,古遗址,Shang dynasty
+39.0,7.7227722772277225,16,Ancient ruins,古遗址,Song dynasty
+21.0,4.158415841584159,12,Ancient ruins,古遗址,Southern and Northern dynasties
+11.0,2.178217821782178,13,Ancient ruins,古遗址,Sui dynasty
+39.0,7.7227722772277225,14,Ancient ruins,古遗址,Tang dynasty
+2.0,0.39603960396039606,5,Ancient ruins,古遗址,Xia dynasty
+16.0,3.1683168316831685,17,Ancient ruins,古遗址,Yuan dynasty
+72.0,14.257425742574256,7,Ancient ruins,古遗址,Zhou dynasty
+0.0,0.0,10,Ancient ruins,古遗址,Three Kingdoms
+0.0,0.0,20,Ancient ruins,古遗址,Republic of China
+0.0,0.0,21,Ancient ruins,古遗址,Chinese People‘s Republic
+40.0,3.646308113035551,15,Ancient architecture,古建筑,Five Dynasties and Ten Kingdoms
+16.0,1.4585232452142205,9,Ancient architecture,古建筑,Han dynasty
+365.0,33.272561531449405,18,Ancient architecture,古建筑,Ming dynasty
+2.0,0.18231540565177756,8,Ancient architecture,古建筑,Qin dynasty
+241.0,21.969006381039197,19,Ancient architecture,古建筑,Qing dynasty
+4.0,0.3646308113035551,20,Ancient architecture,古建筑,Republic of China
+214.0,19.507748404740198,16,Ancient architecture,古建筑,Song dynasty
+6.0,0.5469462169553327,12,Ancient architecture,古建筑,Southern and Northern dynasties
+4.0,0.3646308113035551,13,Ancient architecture,古建筑,Sui dynasty
+66.0,6.01640838650866,14,Ancient architecture,古建筑,Tang dynasty
+2.0,0.18231540565177756,5,Ancient architecture,古建筑,Xia dynasty
+131.0,11.941659070191431,17,Ancient architecture,古建筑,Yuan dynasty
+6.0,0.5469462169553327,7,Ancient architecture,古建筑,Zhou dynasty
+0.0,0.0,1,Ancient architecture,古建筑,Geological age
+0.0,0.0,2,Ancient architecture,古建筑,Paleolithic age
+0.0,0.0,3,Ancient architecture,古建筑,Neolithic
+0.0,0.0,4,Ancient architecture,古建筑,Bronze Age
+0.0,0.0,6,Ancient architecture,古建筑,Shang dynasty
+0.0,0.0,10,Ancient architecture,古建筑,Three Kingdoms
+0.0,0.0,11,Ancient architecture,古建筑,Jin dynasty
+0.0,0.0,21,Ancient architecture,古建筑,Chinese People‘s Republic
